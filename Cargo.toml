@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2021"
 authors = ["James Roark <insomnocrat@gmail.com>"]
 license = "Apache-2.0"
+description = "misc sugar for working with utf-8 encoded bytes"
+repository = "https://github.com/insomnocrat/utf8_utils"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
